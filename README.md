@@ -32,7 +32,12 @@
 
 ## Screenshot
 
-<video src="./public/Dal_Lake_cabins.mp4" width="620" height="440" controls></video>
+<div>
+  <img src="./public/Application_Screen_1.jpg" >
+  <img src="./public/Application_Screen_2.jpg" >
+  <img src="./public/Application_Screen_3.jpg" >
+  <img src="./public/Application_Screen_4.jpg" >
+</div>
 
 ## Main Features of the App
 
