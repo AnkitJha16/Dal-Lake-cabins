@@ -1,3 +1,39 @@
+<div align="center">
+ <img  src="./public/Logo1-dark.png"  width="100px" height="100px"/>
+ </div>
+
+ <div align="center">
+<img src="https://img.shields.io/npm/v/npm?logo=npm
+"/>
+<img src="https://img.shields.io/badge/react-v18.2.5-blue?logo=react"/>
+<img src="https://img.shields.io/badge/reactRouterDom-v6.22.3-red?logo=reactrouter"/>
+<img src="https://img.shields.io/badge/styledComponents-v6.1.8-pink?logo=styledcomponents"/>
+<img src="https://img.shields.io/badge/reactQuery-v5.29.2-red?logo=reactquery"/>
+<img src="https://img.shields.io/badge/reactHookForm-v7.51.3-red?logo=reacthookform"/>
+<img src="https://img.shields.io/badge/supabase-v2.42.3-green?logo=supabase"/>
+</div>
+
+<p align="center">The Dal Lake Cabins app enables you to check in/out bookings and gain a complete understanding of bookings, sales, check-ins, occupancy rates.</p>
+
+<div align="center">
+  
+• <a href="#technologies-used" align="center">Technologies Used</a> •  <a href="#screenshot" align="center"> Screenshot </a>  •  <a href="#main-features-of-the-app" align="center"> Main Features of the App </a> • <a align="center" href="#future-enhancements"> Future Enhancements </a> •  <a href="#license" align="center"> License  </a>
+
+</div>
+
+## Technologies Used
+
+- [React](https://react.dev/)
+- [React Router Dom](https://reactrouter.com/en/main)
+- [Styled componenets](https://styled-components.com/)
+- [React Query](https://tanstack.com/query/v3/)
+- [React Hook Form](https://www.react-hook-form.com/)
+- [Supabase](https://supabase.com/)
+
+## Screenshot
+
+<video src="./public/Dal_Lake_cabins.mp4" width="620" height="440" controls></video>
+
 ## Main Features of the App
 
 - Users of the app are hotel employees.They need to be logged into the application to perform tasks.
@@ -27,3 +63,7 @@
 - Varying prices of rooms
 - Restaurant order and adding it to total bill
 - PDF invoice after checkout and mail to the user
+
+## License
+
+**MIT**
