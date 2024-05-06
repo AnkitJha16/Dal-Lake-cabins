@@ -72,3 +72,5 @@
 ## License
 
 **MIT**
+
+Note: This app has been inspired from udemy content creator Jonas Schmedtmann (React Course).
