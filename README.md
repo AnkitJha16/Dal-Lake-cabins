@@ -70,7 +70,4 @@
 - PDF invoice after checkout and mail to the user
 
 ## License
-
 **MIT**
-
-Note: This app has been inspired from udemy content creator Jonas Schmedtmann (React Course).
